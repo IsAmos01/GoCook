@@ -1,0 +1,2 @@
+# GoCook
+go sample
